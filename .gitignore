@@ -1,0 +1,8 @@
+__pycache__/
+*.pt
+*.log
+data/
+*.txt
+*.pyc
+loaded.xclbin
+checkpoint/
